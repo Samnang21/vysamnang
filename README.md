@@ -1,1 +1,1 @@
-# vysamnang
+# vysamnang.khmer
